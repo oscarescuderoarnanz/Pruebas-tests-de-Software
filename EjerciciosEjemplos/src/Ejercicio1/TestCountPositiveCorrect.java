@@ -9,4 +9,8 @@ public class TestCountPositiveCorrect{
 	  int x[] =  {1,2,3,4,-1,0,5,0};
       assertEquals("Numero de enteros positivos con codigo corregido", 5, CorrectCountPositive.countPositives(x));
 	}
+	@Test public void zeroFirstElement4(){
+		int x[] =  {1,2,3,4,-1,0,5,0,27};
+		assertEquals("Numero de enteros positivos con codigo corregido", 6, CorrectCountPositive.countPositives(x));
+	}
 }

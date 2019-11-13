@@ -15,5 +15,11 @@ public class TestFindLastIndexCorrect {
 		int y = 1;
 		assertEquals("Posicion del numero introducido(1): 0", 0, FindLastIndexCorrect.findLast(z1, y));
    }
+	
+	@Test public void TestFindLastIndex4(){
+		int z1[] = {1,2,3,4,-1,0, 1};
+		int y = 1;
+		assertEquals("Posicion del numero introducido(1): 6", 6, FindLastIndexCorrect.findLast(z1, y));
+   }
 
 }

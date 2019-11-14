@@ -1,9 +1,7 @@
-# Ejercicios pruebas de Software
-
 # PASOS PARA PROBAR EL CODIGO:
-	* Descargar carpeta EjerciciosEjemplos
-	* Importar en Eclipse
-	* Ejecutar Alltest.java
+	1) Descargar carpeta EjerciciosEjemplos
+	2) Importar en Eclipse
+	3) Ejecutar Alltest.java
 
 # NOTAS IMPORTANTES:
 	1) Alltest recoge los test para los cuatro ejemplos de código

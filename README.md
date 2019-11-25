@@ -1,3 +1,5 @@
+Las explicaciones de los ejercicios se encuentran en los ficheros de test
+
 # PASOS PARA PROBAR EL CODIGO:
 	1) Descargar carpeta EjerciciosEjemplos
 	2) Importar en Eclipse
